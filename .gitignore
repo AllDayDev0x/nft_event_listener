@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django
+*.log
+*.sqlite3
+db.sqlite3
+/media
+/staticfiles
+/static
+
+# Pytest
+.cache
+.pytest_cache/
+
+# Environment Variables
+.env
+*.env
+
+# VS Code
+.vscode/
+.history/
+
+# IDE files
+.idea/
+*.iml
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Backup files
+*~ 
+*.bak
+*.orig
+*.swp
+*.swo
